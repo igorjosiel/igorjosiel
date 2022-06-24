@@ -4,6 +4,8 @@
 
 ![Igor Josiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorjosiel&show_icons=true&theme=dracula)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que utilizo
 
 <div style="display: inline-block">
@@ -15,4 +17,6 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-</div>
+</div><br />
+
+Apaixonado pelo desenvolvimento front-end, busco a cada dia aprimorar e aperfoçoar as minhas habilidades e competências profissionais na área.
