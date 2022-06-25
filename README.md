@@ -18,4 +18,6 @@
   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div><br />
 
+![Snake animation](https://github.com/igorjosiel/igorjosiel/blob/output/github-contribution-grid-snake.svg)
+
 Apaixonado pelo desenvolvimento front-end, busco a cada dia aprimorar e aperfoçoar as minhas habilidades e competências profissionais na área.
