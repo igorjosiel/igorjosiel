@@ -21,3 +21,4 @@
 ![Snake animation](https://github.com/igorjosiel/igorjosiel/blob/output/github-contribution-grid-snake.svg)
 
 Apaixonado pelo desenvolvimento front-end, busco a cada dia aprimorar e aperfoçoar as minhas habilidades e competências profissionais na área.
+Meu objetivo como dev front-end é contribuir para que a web seja um lugar cada vez mais bonito, atraente, responsivo, tornando sites e sistemas cada vez mais acessíveis a todos e a todas.
