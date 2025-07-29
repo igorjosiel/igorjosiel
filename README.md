@@ -9,12 +9,16 @@ Meu objetivo como dev front-end é contribuir para que a web seja um lugar cada 
 
 ### 🛠 Tecnologias
 
-![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
-![HTML](https://img.shields.io/badge/HTML-000?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/HTML-000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=flat&logo=css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss)
 ![Javascript](https://img.shields.io/badge/Javascript-000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
+![Typescript](https://img.shields.io/badge/Typescript-000?style=flat&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-000?style=flat&logo=redux)
 ![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php)
-![PHP](https://img.shields.io/badge/Laravel-000?style=flat&logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=flat&logo=laravel)
 
 ### 📤 Contato
 
