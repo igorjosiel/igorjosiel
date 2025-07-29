@@ -14,9 +14,8 @@ Meu objetivo como dev front-end é contribuir para que a web seja um lugar cada 
 ![CSS](https://img.shields.io/badge/CSS3-000?style=flat&logo=css)
 ![Javascript](https://img.shields.io/badge/Javascript-000?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/Laravel-000?style=flat&logo=laravel)
 
 ### 📤 Contato
 
 - [Linkedin](https://www.linkedin.com/in/react-developer-igor-josiel/)
-
-![Snake animation](https://github.com/igorjosiel/igorjosiel/blob/output/github-contribution-grid-snake.svg)
